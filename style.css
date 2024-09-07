@@ -1,0 +1,29 @@
+td{
+    border: 1px solid black;
+    padding: 10px;
+    box-shadow:grey 1px 1px 1px 1px;
+}
+table.one{
+    margin-top: 160px;
+    empty-cells: hide;
+    display: flex;
+    justify-content: center;
+    font-family: "Pacifico", cursive
+}
+table.two{
+    margin-top: 30px;
+    empty-cells: hide;
+    display: flex;
+    justify-content: center;
+    font-family: "Pacifico", cursive
+}
+p{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-family: "Honk", system-ui;
+    font-size: 70px;
+}
+body{
+    background: rgb(3, 34, 54);
+}
